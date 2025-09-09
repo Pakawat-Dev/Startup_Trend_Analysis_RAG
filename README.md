@@ -21,7 +21,7 @@ An AI-powered startup trend analysis tool using RAG (Retrieval-Augmented Generat
    - Add your research documents (PDF, TXT, MD, JSON, CSV files)
 
 3. **Set up API keys**:
-   - Copy `.env.example` to `.env`
+   - Create `.env`
    - Add your OpenAI API key from https://platform.openai.com/
    - (Optional) Add your Anthropic API key from https://console.anthropic.com/
 
