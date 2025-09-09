@@ -1,0 +1,18 @@
+[project]
+name = "trend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv",
+    "chromadb",
+    "pypdf",
+    "openai",
+    "anthropic",
+    "langgraph",
+    "typing-extensions",
+    "streamlit",
+    "pandas",
+    "numpy",
+]
